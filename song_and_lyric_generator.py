@@ -10,26 +10,12 @@ Original file is located at
 
 
 ```
-CAUTION: WITHOUT RUNNING EVERY CODE BLOCK, YOU WILL NOT BE ABLE TO RUN THE PROGRAM.
-PLEASE ADD ALL THESE FILES IN YOUR GOOGLE DRIVE TO BE ABLE TO RUN THIS PROGRAM -https://drive.google.com/drive/folders/111OoZpOSIC2IiETfmdXkJ1rOcZj5CDgK?usp=sharing
-
-IMPORTANT: PLEASE ADD A SHORTCUT OF THE FOLDER FROM SHARED TO ME TO MY DRIVE
-PLEASE DON'T EDIT THE PATH OF THE FILES IN THE FOLDER
+Please read the runprogram.txt file if you are running this program on your local disk.
 
 If you have any issues, please contact us at kendall@kendalldoescoding.gq
 
 ```
 """
-
-from google.colab import files
-
-with open('important.txt', 'w') as f:
-  f.write('Please read the setup from the Google Collab from the top.')
-
-files.download('important.txt')
-
-from google.colab import drive
-drive.mount('/content/drive')
 
 #audio
 import os
