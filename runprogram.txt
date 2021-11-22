@@ -4,7 +4,7 @@ Welcome to my Song and Lyric Generator Github.
 
 You can run this program online on google collab following the instructions mentioned in the collab - https://colab.research.google.com/drive/1ey676qv3HAKVVXyVGNfnKiYOjvdpC3Dk
 
-Due to a Python program running issue on my pc, I've never tried running the files on my local disk, so ig you can try it if you like.
+Due to a Python program running issue on my pc, I've never tried running the files on my local disk, so ig you can try it if you want to, at your own risk.
 
  If you have any issues, or need any help, you can reach out to me at kendall@kendalldoescoding.gq
 
